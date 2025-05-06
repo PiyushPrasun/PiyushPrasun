@@ -1,5 +1,7 @@
+![Welcome GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzRlaDVpcGdpN2J0dHp4ZnlzdjZ6OHIxMzRxN2l2MGtsMTZtN2NlciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1BgqtRVZH0w9OFefkf/giphy.gif)
+
 <h1 align="center">Hi 👋, I'm Piyush Prasun</h1>
-<h3 align="center">Full Stack Developer | Lifelong Learner |Turning Coffee & Code into Creative Interfaces</h3>
+<h3 align="center">Full Stack Developer | Lifelong Learner | Turning Coffee & Code into Creative Interfaces</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushprasun&label=Profile%20views&color=0e75b6&style=flat" alt="piyushprasun" /> </p>
 
@@ -15,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/PiyushPrasun](https://github.com/PiyushPrasun)
 
-- 💬 Ask me about **React,Node.js**
+- 💬 Ask me about **React, Node.js**
 
 - 📫 How to reach me **piyushprasun351@gmail.com**
 
@@ -37,4 +39,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piyushprasun&show_icons=true&locale=en" alt="piyushprasun" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piyushprasun&" alt="piyushprasun" /></p>
-
