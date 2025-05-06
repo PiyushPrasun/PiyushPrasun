@@ -1,4 +1,6 @@
-![Welcome GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzRlaDVpcGdpN2J0dHp4ZnlzdjZ6OHIxMzRxN2l2MGtsMTZtN2NlciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1BgqtRVZH0w9OFefkf/giphy.gif)
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzRlaDVpcGdpN2J0dHp4ZnlzdjZ6OHIxMzRxN2l2MGtsMTZtN2NlciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1BgqtRVZH0w9OFefkf/giphy.gif" alt="Welcome GIF" width="500" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Piyush Prasun</h1>
 <h3 align="center">Full Stack Developer | Lifelong Learner | Turning Coffee & Code into Creative Interfaces</h3>
@@ -36,6 +38,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=piyushprasun&show_icons=true&locale=en&layout=compact" alt="piyushprasun" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piyushprasun&show_icons=true&locale=en" alt="piyushprasun" /></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=piyushprasun&show_icons=true&locale=en" alt="piyushprasun" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piyushprasun&" alt="piyushprasun" /></p>
