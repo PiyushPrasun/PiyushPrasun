@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PiyushPrasun/PiyushPrasun/refs/heads/main/assests/849790.gif" alt="Welcome GIF" width="500" />
+  <img src="https://raw.githubusercontent.com/PiyushPrasun/PiyushPrasun/refs/heads/main/assests/849790.gif" alt="Welcome GIF" width="auto" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Piyush Prasun</h1>
