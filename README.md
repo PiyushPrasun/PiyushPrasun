@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzRlaDVpcGdpN2J0dHp4ZnlzdjZ6OHIxMzRxN2l2MGtsMTZtN2NlciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1BgqtRVZH0w9OFefkf/giphy.gif" alt="Welcome GIF" width="500" />
+  <img src="https://raw.githubusercontent.com/PiyushPrasun/PiyushPrasun/refs/heads/main/assests/849790.gif" alt="Welcome GIF" width="500" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Piyush Prasun</h1>
